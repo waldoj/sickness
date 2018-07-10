@@ -2,6 +2,10 @@
 
 Tracking issues and data to figure out why I'm sick.
 
+## History
+
+In the last week of August 2017, I developed the symptoms of a cold. It remained low level until September 4 2017, when I felt sick enough to take the day off of work. I never got better. After a month I figured I'd developed seasonal allergies (something I've never had before), but the symptoms were not alleviated by either taking over-the-counter allergy medications or by a week-long trip to India in October. In early November I finally went to my physician, who prescribed allergy medication. That began months of medical appointments to try to identify the source of the problem.
+
 ## Symptoms
 
 * headache, often
