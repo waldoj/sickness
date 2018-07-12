@@ -1,6 +1,6 @@
 # Sickness
 
-Tracking issues and data to figure out why I'm sick.
+Tracking issues and data to figure out why I'm sick, using [this Kanban board](https://github.com/waldoj/sickness/projects/1).
 
 ## History
 
