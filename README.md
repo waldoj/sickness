@@ -1,6 +1,6 @@
 # Sickness
 
-Tracking issues and data to figure out why I'm sick, using [this Kanban board](https://github.com/waldoj/sickness/projects/1).
+Tracking issues and data to figure out why I'm sick, using [this Kanban board](https://github.com/waldoj/sickness/projects/1). *Update:* Thanks to this process, and the contributions of dozens of people here and on Twitter, I'm cured. The problem turned out to be [chronic sleep insufficiency](https://github.com/waldoj/sickness/issues/31).
 
 ## History
 
